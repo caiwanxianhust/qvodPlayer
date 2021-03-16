@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background.jpg</file>
+        <file>image/播放.png</file>
+        <file>image/单曲循环.png</file>
+        <file>image/列表循环.png</file>
+        <file>image/上一首 上一个.png</file>
+        <file>image/随机播放.png</file>
+        <file>image/下一个 下一首.png</file>
+        <file>image/暂停.png</file>
+        <file>image/windowicon.jpg</file>
+        <file>image/播放white.png</file>
+        <file>image/暂停white.png</file>
+    </qresource>
+</RCC>
